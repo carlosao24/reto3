@@ -1,1 +1,1 @@
-git clone: El git clone sirve para clonar un repositorio de remoto a local
+git commit: Comando que me permite guardar cambios realizados en el archivo de forma local
