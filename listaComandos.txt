@@ -1,1 +1,3 @@
-git commit: Comando que me permite guardar cambios realizados en el archivo de forma local
+git push: Este comando sube los commits de local a remoto en GitHub
+git status: Este comando me permite ver el estado del repositorio, indica si tiene modificaciones o si necesitas hacer un commit
+git add: Este comando me permite agregar los cambios realizados en el archivo local antes de hacer un git commit
